@@ -3,7 +3,7 @@ Data Access
 
 All datasets required to run the code are stored in a compressed (zipped) folder named datafile.
 You can download the data from the Google Drive link below:
-[INSERT GOOGLE DRIVE LINK HERE]
+[https://drive.google.com/file/d/1lxAHr-1lQjvfSemzPuggEbXS9I5ZxsEp/view?usp=drive_link]
 
 After downloading, extract the contents of the zip file and ensure the folder structure is preserved so that all scripts can correctly locate the data.
 
